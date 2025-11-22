@@ -1,13 +1,9 @@
 # Case-Shiller Index Analysis
 
-Analýza vývoje cen nemovitostí v USA na základě Case-Shiller Home Price Index.
+Analýza vývoje cen nemovitostí v USA na základě Case-Shiller Home Price Index a porovnání s dalšími makro ukazateli
 
 ## Co projekt obsahuje
 
 * Jupyter notebook s analýzou a vizualizacemi (Matplotlib)
 * Transformace dat (Python, Pandas)
-* Porovná Case-Schiller Index s dalšími makro ukazateli
-* Prezentace a komentář výsledků (PowerPoint)
-
-
-
+* Prezentaci a komentář výsledků (PowerPoint)
