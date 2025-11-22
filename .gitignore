@@ -1,12 +1,10 @@
 __pycache__/
 .ipynb_checkpoints/
 venv/
-výsledky/
 *.pyc
 *.pyo
 *.pyd
 ~$*
-*.pptx
 .env
 .DS_Store
 Thumbs.db
